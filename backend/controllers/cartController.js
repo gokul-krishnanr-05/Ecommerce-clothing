@@ -32,7 +32,7 @@ const addToCart = async (req,res) => {
     }
 }
 
-// update user cart
+// update the  user cart
 const updateCart = async (req,res) => {
     try {
         
