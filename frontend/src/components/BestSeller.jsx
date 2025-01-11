@@ -18,7 +18,10 @@ const BestSeller = () => {
       <div className='text-center text-3xl py-8'>
         <Title text1={'BEST'} text2={'SELLERS'}/>
         <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the.
+        Discover our bestsellers—the most-loved styles by our customers! From trendy outfits to timeless essentials,<br/>
+         these top picks combine style, comfort, and quality. Whether you're looking for chic dresses, versatile casual wear, <br/>
+         or standout accessories, our bestsellers collection has something for everyone. Shop the favorites that everyone is raving about <br/>
+         and upgrade your wardrobe today!
         </p>
       </div>
 
